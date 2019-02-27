@@ -21,8 +21,7 @@ AT+QMTPUB=2,0,0,0,"/huawei/v1/devices/7068026a-19fe-4555-8678-48a483fcd985/data/
     }
   ]
 }
-} ] } } "IntValue": 34TVAL2",
-^Z
+} ] } } 
 
 OK
 
