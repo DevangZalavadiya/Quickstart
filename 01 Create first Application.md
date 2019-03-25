@@ -1,18 +1,24 @@
-# Quickstart ALLIoT
+# Quickstart IoT-Gateway
+- [Quickstart IoT-Gateway](#quickstart-iot-gateway)
+  - [Login to IoT-Gateway](#login-to-iot-gateway)
+- [Create your first Application](#create-your-first-application)
+  - [App Detail](#app-detail)
+  - [Next Step: Add your first device](#next-step-add-your-first-device)
 
-## Login to ALLIoT
-https://alliot.t-mobile.at/#/login 
+## Login to IoT-Gateway
+https://iotgateway.t-mobile.at/#/login 
 
 # Create your first Application
 ![Step1](./images/Step1.png)
 
 ![Step2](./images/Step2.png)
 1. Application Name
-2. Select Utility
+2. Select Enterprise [It is not mandatory, If you wish you can define and add       it from Right --> Organizations --> Create Root Organization]
 3. Select if T-Mobile should be able to trace your Devices
 4. Select Storage Mode
-5. Agree to Terms
-6. Confirm to create the App
+5. Select the Rule engine 
+6. Agree to Terms
+7. Confirm to create the App
 
 
 
@@ -24,9 +30,11 @@ https://alliot.t-mobile.at/#/login
 ## App Detail
 
 ![Step4](./images/Step4.png)
-1. Choose Power-Saving Configuration
+1. Choose the Power-Saving Configuration
 2. Choose your Power saving Mode (use DRX for first App)
 3. Click Save
+
+## Next Step: [Add your first device](02&#32;Add&#32;first&#32;Device.md)
 
 
 
